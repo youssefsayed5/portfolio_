@@ -4,7 +4,7 @@ export const profile = {
   stack: "Node.js",
   location: "Cairo, Egypt",
   email: "youssefahmed200551@gmail.com",
-  github: "https://github.com/you752",
+  github: "https://github.com/youssefsayed5",
   // Add your LinkedIn profile URL here; the icon and links appear automatically once it is set.
   linkedin: "",
   // Put your CV in the /public folder with this exact name.
