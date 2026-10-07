@@ -8,7 +8,7 @@ export const profile = {
   // Add your LinkedIn profile URL here; the icon and links appear automatically once it is set.
   linkedin: "",
   // Put your CV in the /public folder with this exact name.
-  cv: "https://drive.google.com/file/d/1ih5KcWm3fOvRoj44fcl2FBgCNiBwLZYN/view?usp=sharing",
+  cv: "https://drive.google.com/uc?export=download&id=1ih5KcWm3fOvRoj44fcl2FBgCNiBwLZYN",
 };
 
 export const navItems = [
